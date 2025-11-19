@@ -1,0 +1,3 @@
+gradio
+pyswip
+swi-prolog
